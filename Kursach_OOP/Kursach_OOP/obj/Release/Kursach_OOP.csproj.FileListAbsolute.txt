@@ -1,0 +1,13 @@
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\bin\Release\Kursach_OOP.exe.config
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\bin\Release\Kursach_OOP.exe
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\bin\Release\Kursach_OOP.pdb
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.AboutBox1.resources
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.Form1.resources
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.Properties.Resources.resources
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.exe
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.pdb
+C:\Users\nikit\source\repos\Kursach_OOP\Kursach_OOP\obj\Release\Kursach_OOP.LicenseKeyInputDialog.resources
